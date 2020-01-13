@@ -1,0 +1,11 @@
+.test_box{
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.test_box .box {
+  border: 1px solid #fff;
+  height: 200px;
+  width: 240px;
+  margin-right: 10px
+}
